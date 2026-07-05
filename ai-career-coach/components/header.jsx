@@ -88,7 +88,7 @@ export default async function Header() {
                     className="flex items-center gap-2"
                   >
                     <PenBox className="h-4 w-4" />
-                    Course Generator
+                    Advance Course Generator
                   </Link>
                 </DropdownMenuItem>
               </DropdownMenuContent>
